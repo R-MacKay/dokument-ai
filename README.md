@@ -17,6 +17,7 @@ Pre-build. Pilot target: MacTutor's own roles, under $50.
 | [docs/kickoff-prompt.md](docs/kickoff-prompt.md) | First prompt for the Claude Code + Superpowers brainstorming session |
 | [docs/research/voice-interview-agent-tooling.md](docs/research/voice-interview-agent-tooling.md) | Voice/dictation stack, interview methods, prompt libraries, build vs buy, costs |
 | [docs/research/market-research.md](docs/research/market-research.md) | Competitors, demand evidence, pricing benchmarks |
+| [docs/research/prompt-libraries.md](docs/research/prompt-libraries.md) | prompts.chat, interview skills to adapt, Anthropic Interviewer test dataset |
 
 ## Principles
 - **Claude-only reasoning.** Sonnet for interviewing, Haiku for cheap tasks. Third-party services only where unavoidable (speech-to-text, text-to-speech), under zero-retention terms.
